@@ -6,8 +6,8 @@
 
   (title_block
     (title "PiicoDev Potentiometer")
-    (date "2022-06-08")
-    (rev "02")
+    (date "2022-06-20")
+    (rev "10")
     (company "Core Electronics")
     (comment 1 "Designed by Peter Johnston at")
   )
@@ -8135,7 +8135,7 @@
     (property "Value" "R_Potentiometer" (id 1) (at 264.16 59.6899 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Single_Vertical" (id 2) (at 261.62 58.42 0)
+    (property "Footprint" "CoreElectronics_Components:Potentiometer_Alps_RK09L_Single_Vertical" (id 2) (at 261.62 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 261.62 58.42 0)
@@ -8287,7 +8287,7 @@
       (reference "R4") (unit 1) (value "120R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/cab0d0a9-e089-4f0b-8483-22b4e0addcae"
-      (reference "RV1") (unit 1) (value "R_Potentiometer") (footprint "Potentiometer_THT:Potentiometer_Alps_RK09L_Single_Vertical")
+      (reference "RV1") (unit 1) (value "R_Potentiometer") (footprint "CoreElectronics_Components:Potentiometer_Alps_RK09L_Single_Vertical")
     )
     (path "/00000000-0000-0000-0000-00006138b025"
       (reference "SW1") (unit 1) (value "ADDR") (footprint "CoreElectronics_Components:SW_DIP_x04_Slide_CHS-04A1")
