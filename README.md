@@ -1,19 +1,9 @@
-<!-- TODO How to use this template
-Follow these commented instructions to build the repo.
-Delete the instructions as you go, to keep for a cleaner final file.
- -->
+# PiicoDev® Potentiometer
 
-<!-- TODO update title to be descriptive. Eg.
-PiicoDev® [Description] [Part#]
-PiicoDev® Precision Temperature Sensor TMP117 -->
-# PiicoDev® Template
-
-<!-- TODO update link URL with CE SKU -->
-<!-- TODO update link title -->
 <!-- TODO put image in Documents directory. Piicodev image 1500x1000 resize to 30% -> 450x300 -->
 ![](Documents/showcase-render.png)
 
-This is the repo for the Core Electronics [PiicoDev XXXXXX](https://core-electronics.com.au/catalog/product/view/sku/XXXXXX).
+This is the repo for the Core Electronics [PiicoDev Potentiometer](https://core-electronics.com.au/catalog/product/view/sku/CE08463).
 
 <!-- TODO populate below here from the tutorial -->
 
